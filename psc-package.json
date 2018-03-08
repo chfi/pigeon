@@ -1,0 +1,22 @@
+{
+  "name": "pigeon",
+  "set": "psc-0.11.7",
+  "source": "https://github.com/purescript/package-sets.git",
+  "depends": [
+    "random",
+    "behaviors",
+    "debug",
+    "generics-rep",
+    "nonempty",
+    "lists",
+    "free",
+    "coroutines",
+    "transformers",
+    "aff",
+    "drawing",
+    "psci-support",
+    "console",
+    "eff",
+    "prelude"
+  ]
+}
